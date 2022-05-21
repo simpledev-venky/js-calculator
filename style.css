@@ -1,0 +1,37 @@
+.container {
+  display: inline-block;
+  margin: 24px 35%;
+  text-align: center;
+  background-color: turquoise;
+  border: 6px solid rgba(34, 133, 194, 0.52);
+  border-radius: 22px;
+}
+button {
+  width: 85px;
+  height: 86px;
+    border-radius: 80px;
+    margin: 4px;
+    font-size: 40px;
+}
+#screen {
+  width: 372px;
+  height: 71px;
+  border-radius: 14px;
+  margin-bottom: 14px;
+  font-size: 50px;
+}
+
+
+h1 {
+  font-size: 51px;
+  /* width: 95px; */
+  margin: 12px;
+}
+
+body {
+    background-color: hsl(148deg 11% 45% / 49%);
+}
+p{
+  text-align: center;
+  color:blue;
+}
