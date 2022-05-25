@@ -13,8 +13,12 @@ if(buttonText==="X"){
     screenvalue  +=buttonText 
     screen.value = screenvalue
 }
-else if (buttonText==="C"){
+else if (buttonText==="AC"){
   screenvalue = ""
+    screen.value = screenvalue
+}
+else if (buttonText==="D"){
+  screenvalue = screenvalue.slice(0,-1)
     screen.value = screenvalue
 }
 else if (buttonText==="="){
