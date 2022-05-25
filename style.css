@@ -13,6 +13,9 @@ button {
     margin: 4px;
     font-size: 40px;
 }
+button:hover{
+  opacity: .6;
+}
 .operator{
   background-color: #c032a2e6;
 }
